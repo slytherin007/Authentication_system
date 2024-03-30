@@ -1,5 +1,3 @@
-Great start! Let's refine the steps for clarity:
-
 1. **Download the Project:**
    - Download the ZIP file for the project from the repository.
 
